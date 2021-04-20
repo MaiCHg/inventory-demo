@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "location": "Paris Beaugrenelle",
+    "stock": 5
+  },
+  {
+    "id": 2,
+    "location": "Paris Champs Elysees",
+    "stock": 0
+  },
+  {
+    "id": 3,
+    "location": "Paris Haussmann",
+    "stock": 3
+  }
+]
