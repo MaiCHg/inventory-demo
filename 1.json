@@ -1,7 +1,7 @@
 {
     "id": 1,
     "location": "Paris Beaugrenelle",
-    "phone": 0129302349,
+    "phone": "0129302349",
     "email": "beaugrenelle@eshop.com",
     "openingTimes": {
         "mon": ["11am", "6pm"],

@@ -1,7 +1,7 @@
 {
     "id": 3,
     "location": "Paris Haussmann",
-    "phone": 0167894350,
+    "phone": "0167894350",
     "email": "champselysees@eshop.com",
     "openingTimes": {
         "mon": ["11am", "6pm"],

@@ -1,7 +1,7 @@
 {
     "id": 2,
     "location": "Paris Champs Elysees",
-    "phone": 01904857,
+    "phone": "0190485702",
     "email": "champselysees@eshop.com",
     "openingTimes": {
         "mon": ["11am", "6pm"],
