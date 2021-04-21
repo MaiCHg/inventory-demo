@@ -1,0 +1,15 @@
+{
+    "id": 1,
+    "location": "Paris Beaugrenelle",
+    "phone": "0129302349",
+    "email": "beaugrenelle@eshop.com",
+    "openingTimes": {
+        "mon": ["11am", "6pm"],
+        "tue": ["9am", "6pm"],
+        "wed": ["9am", "6pm"],
+        "thu": ["9am", "6pm"],
+        "fri": ["9am", "8pm"],
+        "sat": ["9am", "8pm"],
+        "sun": []
+    }
+}
