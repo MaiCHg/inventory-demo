@@ -1,8 +1,8 @@
 {
-    "id": 3,
-    "location": "Paris Haussmann",
-    "phone": "0167894350",
-    "email": "champselysees@eshop.com",
+    "id": "0",
+    "location": "Paris Beaugrenelle",
+    "phone": "0129302349",
+    "email": "beaugrenelle@eshop.com",
     "openingTimes": {
         "mon": ["11am", "6pm"],
         "tue": ["9am", "6pm"],

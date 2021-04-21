@@ -1,16 +1,16 @@
 [
   {
-    "id": "1",
+    "id": "0",
     "location": "Paris Beaugrenelle",
     "stock": 5
   },
   {
-    "id": "2",
+    "id": "1",
     "location": "Paris Champs Elysees",
     "stock": 2
   },
   {
-    "id": "3",
+    "id": "2",
     "location": "Paris Haussmann",
     "stock": 3
   }
